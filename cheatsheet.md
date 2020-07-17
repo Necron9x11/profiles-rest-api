@@ -4,6 +4,8 @@ This is the supplementary cheat sheet document for our course: [Build a Backend 
 
 [Github Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 [Choose a License](https://choosealicense.com/licenses/mit/#)
+[PyPi](https://pypi.org/)
+
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Git](#git)
