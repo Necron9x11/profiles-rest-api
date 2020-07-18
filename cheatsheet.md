@@ -5,6 +5,9 @@ This is the supplementary cheat sheet document for our course: [Build a Backend 
 [Github Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 [Choose a License](https://choosealicense.com/licenses/mit/#)
 [PyPi](https://pypi.org/)
+[Django: Customize Default User Model](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#auth-custom-user)
+[Django: Model Fields](https://docs.djangoproject.com/en/1.11/ref/models/fields/)
+[Django: Normalize User](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#django.contrib.auth.models.BaseUserManager.normalize_email)
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
