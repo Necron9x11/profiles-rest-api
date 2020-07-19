@@ -8,6 +8,11 @@ This is the supplementary cheat sheet document for our course: [Build a Backend 
 [Django: Customize Default User Model](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#auth-custom-user)
 [Django: Model Fields](https://docs.djangoproject.com/en/1.11/ref/models/fields/)
 [Django: Normalize User](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#django.contrib.auth.models.BaseUserManager.normalize_email)
+[URL dispatcher](https://docs.djangoproject.com/en/1.11/topics/http/urls/)
+[Django path() urls doc](https://docs.djangoproject.com/en/2.2/ref/urls/#django.urls.path)
+[Django include() urls doc](https://docs.djangoproject.com/en/2.2/ref/urls/#django.urls.include)
+
+
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
