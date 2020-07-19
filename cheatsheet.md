@@ -2,16 +2,27 @@
 
 This is the supplementary cheat sheet document for our course: [Build a Backend REST API with Python & Django - Beginner](https://www.udemy.com/django-python/?couponCode=2019UPDATECHEATSHEET)
 
-[Github Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-[Choose a License](https://choosealicense.com/licenses/mit/#)
-[PyPi](https://pypi.org/)
-[Django: Customize Default User Model](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#auth-custom-user)
-[Django: Model Fields](https://docs.djangoproject.com/en/1.11/ref/models/fields/)
-[Django: Normalize User](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#django.contrib.auth.models.BaseUserManager.normalize_email)
-[URL dispatcher](https://docs.djangoproject.com/en/1.11/topics/http/urls/)
-[Django path() urls doc](https://docs.djangoproject.com/en/2.2/ref/urls/#django.urls.path)
-[Django include() urls doc](https://docs.djangoproject.com/en/2.2/ref/urls/#django.urls.include)
-
+- [Github Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Choose a License](https://choosealicense.com/licenses/mit/#)
+- [PyPi](https://pypi.org/)
+- [Django: Customize Default User Model](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#auth-custom-user)
+- [Django: Model Fields](https://docs.djangoproject.com/en/1.11/ref/models/fields/)
+- [Django: Normalize User](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#django.contrib.auth.models.BaseUserManager.normalize_email)
+- [URL dispatcher](https://docs.djangoproject.com/en/1.11/topics/http/urls/)
+- [Django path() `urls doc`](https://docs.djangoproject.com/en/2.2/ref/urls/#django.urls.path)
+- [Django Official Models](https://docs.djangoproject.com/en/1.11/topics/db/models/)
+- [Python Official PEP8 Guidelines](https://www.python.org/dev/peps/pep-0008/)
+- [Django Normalize Email Official Docs `classmethod normalize_email(email)`](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#django.contrib.auth.models.BaseUserManager.normalize_email)
+- [Official Django docs for Custom Model Setting`AUTH_USER_MODEL`](https://docs.djangoproject.com/en/2.2/ref/settings/#std:setting-AUTH_USER_MODEL)
+- [Django Admin Official Docs](https://docs.djangoproject.com/en/1.11/ref/contrib/admin/)
+- [Django include() `urls doc`](https://docs.djangoproject.com/en/2.2/ref/urls/#django.urls.include)
+- [Django Admin override model Name`verbose_name`](https://docs.djangoproject.com/en/2.2/ref/models/options/#verbose-name)
+- [Official Django Docs for Overriding Model Name](https://docs.djangoproject.com/en/2.2/ref/models/options/#verbose-name)
+- [Django REST `Class-based Views`](https://www.django-rest-framework.org/api-guide/views/)
+- [Django REST `Framework`](https://www.django-rest-framework.org/api-guide/serializers/)
+- [Django REST Framework `Serializer fields`]() 
+- [Django REST Framework `Status Codes`](https://www.django-rest-framework.org/api-guide/status-codes/)
+- 
 
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
