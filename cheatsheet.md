@@ -19,6 +19,7 @@ This is the supplementary cheat sheet document for our course: [Build a Backend 
 - [Django Admin override model Name`verbose_name`](https://docs.djangoproject.com/en/2.2/ref/models/options/#verbose-name)
 - [Official Django Docs for Overriding Model Name](https://docs.djangoproject.com/en/2.2/ref/models/options/#verbose-name)
 - [Django REST `Class-based Views`](https://www.django-rest-framework.org/api-guide/views/)
+- [Django `REST framework Quick Start`](https://www.django-rest-framework.org/tutorial/quickstart/)
 - [Django REST `Framework`](https://www.django-rest-framework.org/api-guide/serializers/)
 - [Django REST Framework `Serializer fields`]() 
 - [Django REST Framework `Status Codes`](https://www.django-rest-framework.org/api-guide/status-codes/)
